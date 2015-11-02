@@ -1,0 +1,21 @@
+------------------ [ aGurkha-reminder ] ----------------------
+[Admin]
+- secure it - test it - working[must]
+- sanitize input [optional]
+- 404 and exception page (custom) - not working on dev [must]
+- pagination on customer and sale section  [optional]
+- customer edit not working (bcoz of validation) [must]
+- assign % of colum width on each table
+
+[Customer]
+- implement validation on input (numeric) field > customer registration
+
+[production]
+- once done upload it
+- update homepage 'our location' map
+- YUI compressor (for js , css)
+- remove Acme bundle
+
+
+[Bugs]
+- [bug] customer cannot be edited
